@@ -1,5 +1,0 @@
-D:\src\shortest path\RouteEngine\bin\Debug\RouteEngine.dll
-D:\src\shortest path\RouteEngine\bin\Debug\RouteEngine.pdb
-D:\src\shortest path\RouteEngine\obj\Debug\RouteEngine.csprojResolveAssemblyReference.cache
-D:\src\shortest path\RouteEngine\obj\Debug\RouteEngine.dll
-D:\src\shortest path\RouteEngine\obj\Debug\RouteEngine.pdb
